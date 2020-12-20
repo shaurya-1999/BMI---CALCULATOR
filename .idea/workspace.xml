@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4df5e2c2-7de4-442a-883f-0972672bfe65" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1luems0SVjGOjb9r41QICpoBDfz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AndroidStudioProjects/bmi-calculator-flutter" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BMI APP" type="FlutterRunConfigurationType" factoryName="Flutter" activateToolWindowBeforeRun="false">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4df5e2c2-7de4-442a-883f-0972672bfe65" name="Default Changelist" comment="" />
+      <created>1608451575315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608451575315</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2566" y="247" key="#main.dart" timestamp="1608452712270">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2566" y="247" key="#main.dart/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608452712270" />
+    <state x="2654" y="267" key="FileChooserDialogImpl" timestamp="1608451781789">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2654" y="267" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608451781789" />
+    <state x="2545" y="224" key="NewModule_or_Project.wizard" timestamp="1608451776379">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2545" y="224" key="NewModule_or_Project.wizard/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608451776379" />
+    <state x="2571" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1608451620340">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2571" y="349" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1608451620340" />
+  </component>
+</project>
